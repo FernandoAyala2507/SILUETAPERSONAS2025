@@ -1,0 +1,113 @@
+{
+    "listas": {
+        "Base CAF - Emp. Vinculadas": {
+            "archivo": "Base CAF - Empresas vinculadas",
+            "hoja": "L. CAF (Empresas vinculadas)",
+            "cols": "F",
+            "alias": "CAF Emp Vinc",
+            "activo": true
+        },
+        "Base Parientes PEP": {
+            "archivo": "Base Parientes PEP",
+            "hoja": "BD_Original",
+            "cols": "B",
+            "alias": "Parientes PEP",
+            "activo": true
+        },
+        "Base Riesgo Crediticio": {
+            "archivo": "Base Riesgo crediticio",
+            "hoja": "PN(BRC)",
+            "cols": "H",
+            "alias": "Riesgo Cred",
+            "activo": true
+        },
+        "Lista CAF": {
+            "archivo": "Lista CAF",
+            "hoja": "CONGELAMIENTOS UIF",
+            "cols": "G",
+            "alias": "Lista CAF",
+            "activo": true
+        },
+        "Lista Cumplimiento": {
+            "archivo": "Lista Cumplimiento",
+            "hoja": "LISTA CUMPLIMIENTO",
+            "cols": "G",
+            "alias": "Cumplimiento",
+            "activo": true
+        },
+        "Lista Interna Recompensas": {
+            "archivo": "Lista Interna Recompensas",
+            "hoja": "Lista programa recompensas",
+            "cols": "E",
+            "alias": "Recompensas",
+            "activo": true
+        },
+        "Lista Ley 30737": {
+            "archivo": "Lista Ley 30737",
+            "hoja": "Categor\u00eda 1, Categor\u00eda 2, Categor\u00eda 3",
+            "cols": "C - D - D",
+            "alias": "Ley 30737",
+            "activo": true
+        },
+        "Lista Noticias": {
+            "archivo": "Lista Noticias",
+            "hoja": "LISTA NOTICIAS",
+            "cols": "I",
+            "alias": "Noticias",
+            "activo": true
+        },
+        "Lista PEP": {
+            "archivo": "Lista PEP",
+            "hoja": "Lista PEP",
+            "cols": "D",
+            "alias": "Lista PEP",
+            "activo": true
+        },
+        "Lista Fraude": {
+            "archivo": "Listas Fraude PN - Fraude PJ - V\u00edctima de fraude - Riesgo de cr\u00e9dito",
+            "hoja": "Nueva lista desde julio 2022",
+            "cols": "E",
+            "alias": "Fraude",
+            "activo": true
+        },
+        "Base Reportes Operaciones": {
+            "archivo": "3_RO - 012022 - 052026_ACTUAL",
+            "hoja": "2025_2026",
+            "cols": "N, O, AF, AG, AX, AY",
+            "alias": "Base RO",
+            "activo": true
+        },
+        "Inventario CARS": {
+            "archivo": "Inventario CARS",
+            "hoja": "2018-2026",
+            "cols": "F",
+            "alias": "CARS",
+            "activo": true
+        }
+    },
+    "ruta_matriz": "D:/Usuarios/JEAHUA/Desktop/Test_DDR/Matriz/DILIGENCIAR_DDR_2026.xlsx",
+    "ruta_casos": "D:/Usuarios/JEAHUA/Desktop/Test_DDR",
+    "ruta_eecc": "D:/Usuarios/JEAHUA/Desktop/Test_DDR/EECC",
+    "ruta_formatos": "D:/Usuarios/JEAHUA/Desktop/Test_DDR/Formato",
+    "ruta_listas": "D:/Usuarios/JEAHUA/Desktop/Test_DDR/Listas",
+    "matriz_pestana": "DDR_ANUAL",
+    "matriz_col_car": "O",
+    "matriz_col_doi": "B",
+    "matriz_col_nom": "D",
+    "matriz_col_mes": "Q",
+    "matriz_col_tipo": "C",
+    "anexos_ruta_origen": "D:/Usuarios/JEAHUA/Desktop/Grupo JUNIO DDR ANUAL/Anexos",
+    "anexos_pestana": "DDR_ANUAL",
+    "anexos_col_doi": "B",
+    "anexos_col_car": "O",
+    "descargas_pestana": "DDR_ANUAL",
+    "descargas_col_nombre": "D",
+    "descargas_col_car": "O",
+    "MES": "ABRIL",
+    "EJECUTAR_SUNAT": true,
+    "EJECUTAR_EECC": true,
+    "EJECUTAR_MOTOR": true,
+    "EJECUTAR_SENTINEL": true,
+    "EJECUTAR_GESINTEL": true,
+    "EJECUTAR_WORD": true
+}
